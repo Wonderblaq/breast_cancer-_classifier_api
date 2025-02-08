@@ -1,5 +1,0 @@
-
-fastapi
-uvicorn
-scikit-learn
-pandas # Add this if you're using data processing
